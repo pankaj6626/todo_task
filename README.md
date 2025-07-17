@@ -44,8 +44,8 @@ A full-stack task application built using the **MERN stack** (MongoDB, Express.j
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/mern-task-blog-app.git
-cd mern-task-blog-app
+git clone https://github.com/your-username/mern-task-app.git
+cd mern-task-app
 ```
 
 
